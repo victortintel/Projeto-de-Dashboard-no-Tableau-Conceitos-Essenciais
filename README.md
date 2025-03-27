@@ -28,7 +28,7 @@ Copy
 │── /Arquivos             # Arquivos .twb/.twbx  
 │── README.md             # Este arquivo  
 📸 Exemplo de Dashboard
-![Texto Alternativo](https://public.tableau.com/app/profile/victor.tintel/viz/Livro002_17427926060440/Dashboardmedalhas)
+![Imagem do dashboard](https://public.tableau.com/app/profile/victor.tintel/viz/Livro002_17427926060440/Dashboardmedalhas)
 Dashboard Preview
 
 💬 Vamos Conectar!
